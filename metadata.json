@@ -1,0 +1,6 @@
+{
+  "name": "YABI® — Independent Sound. Unfiltered Identity.",
+  "description": "Experimental editorial artist showcase for YABI, modern Nepali hip-hop artist from Far-Western Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
